@@ -98,7 +98,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            I believe because I did not go the traditional route of becoming a developer I can provide innovative ideas and approaches to projects. Being an ex warehouse worker you have to be on your toes in a fast paced environment and figure out problems on the spot. This skill can provide a lot of new ideas and problem solving within my development. 
+            I believe since I did not go the traditional route of becoming a developer I can provide innovative ideas and approaches to projects. Being an ex warehouse worker you have to be on your toes in a fast paced environment and figure out problems on the spot. This skill can provide a lot of new ideas and problem solving within my development. 
           </p>
         </motion.div>
         {/* IMAGINATIVE */}

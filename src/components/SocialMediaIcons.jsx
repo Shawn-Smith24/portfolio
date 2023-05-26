@@ -12,7 +12,7 @@ const SocialMediaIcons = () => {
 
         <a
         className="hover:opacity-50 transition duration-500 max-w-[35px] max-h-[45px]"
-        href="https://github.com/Shawn-Smith24?tab=repositories"
+        href="https://github.com/Shawn-Smith24"
         target="_blank"
         rel="noreferrer"
          >
