@@ -26,6 +26,7 @@ const Project = ({ title }) => {
         <p className="text-2xl font-playfair">{title}</p>
       </div>
       <img src={`../assets/${projectTitle}.png`} alt={projectTitle} />
+      
     </motion.div>
   );
 };
@@ -57,6 +58,7 @@ const Projects = () => {
 
       {/* PROJECTS */}
       <div className="flex justify-center">
+      
         <motion.div
           className="sm:grid sm:grid-cols-3"
           variants={container}
@@ -68,9 +70,11 @@ const Projects = () => {
        
           
             <Project title="Portfolio" />
+            <Project title="dashboard" />
             
-          
+            
         </motion.div>
+        
       </div>
     </section>
   );
