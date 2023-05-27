@@ -34,7 +34,7 @@ function App() {
         selectedPage={selectedPage}
         setSelectedPage={setSelectedPage}
       />
-      <div className="w-5/6 mx-auto md:h-full">
+      <div className="w-5/6 mx-auto min-height">
         {isDesktop && (
           <DotGroup
             selectedPage={selectedPage}
@@ -50,7 +50,7 @@ function App() {
         </motion.div>
       </div>
       <LineGradient />
-      <div className="w-5/6 mx-auto md:h-full ">
+      <div className="w-5/6 mx-auto min-height ">
         <motion.div
           margin="0 0 -200px 0"
           amount="all"
@@ -70,7 +70,7 @@ function App() {
         </motion.div>
       </div>
 
-      <div className="w-5/6 mx-auto md:h-full">
+      <div className="w-5/6 mx-auto min-height">
         <motion.div
           margin="0 0 -200px 0"
           amount="all"

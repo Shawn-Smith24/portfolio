@@ -120,7 +120,7 @@ const MySkills = () => {
                 Imaginative
               </p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
+            <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
             I am a very creative and imaginative person. I have a passion for photography and the arts. What drew me to this career change is I believe coding is the perfect mixture of problem solving and creativity. It really is my passion and it allows me to express my interests and provides me with the skills to make Users happy with their product.
